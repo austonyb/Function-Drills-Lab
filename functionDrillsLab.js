@@ -28,11 +28,11 @@ helloWorld()
 
 //CODE HERE
 
-const jsNinja = () => {
-  return "I am a Javascript ninja!"
-}
+const jsNinja = () => "I am a Javascript ninja!"
 
+let areYouAJSNinja = jsNinja()
 
+console.log(areYouAJSNinja)
 
 ////////////////// PROBLEM 3 ////////////////////
 /*
